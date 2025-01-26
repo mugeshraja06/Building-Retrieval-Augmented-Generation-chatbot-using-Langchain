@@ -1,4 +1,4 @@
-# Building-Retrieval-Augmented-Generation-chatbot-using-Langchain
+# Building-Retrieval-Augmented-Generation-chatbot-using-Gemini-Langchain
 
 ### code 1:
 This code demonstrates how to create a question-answering chatbot using employee data stored in a CSV file.
