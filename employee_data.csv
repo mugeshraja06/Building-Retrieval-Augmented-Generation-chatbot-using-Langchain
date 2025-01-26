@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Position,Salary
+1,Alice,HR,Manager,90000
+2,Bob,Engineering,Developer,80000
+3,Charlie,Engineering,Senior Developer,100000
+4,David,Marketing,Coordinator,70000
+5,Eve,HR,Assistant,60000
